@@ -1,0 +1,38 @@
+{"employees":[
+
+    {
+    "ID": "34123413",
+    "Name": "Zak Ruvalcaba",
+    "Ext": "3424",
+    "Email": "zak@vectacorp.com", 
+    "Department": "Executive"
+},
+{
+    "ID": "45863217",
+    "Name": "Sally Smith",
+    "Ext": "4545",
+    "Email": "sally@vectacorp.com", 
+    "Department": "Adminstrative"
+},
+{
+    "ID": "34123413",
+    "Name": "Mark Martin",
+    "Ext": "5356",
+    "Email": "mark@vectacorp.com", 
+    "Department": "Sales"
+},
+{
+    "ID": "34112235",
+    "Name": "Robin Banks",
+    "Ext": "7867",
+    "Email": "robin@vectacorp.com", 
+    "Department": "Marketing"
+},
+{
+    "ID": "13413436",
+    "Name": "Sue Wedge",
+    "Ext": "1235",
+    "Email": "sue@vectacorp.com",
+    "Department": "QA"
+}
+]}
